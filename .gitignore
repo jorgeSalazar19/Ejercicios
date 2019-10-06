@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#sources env
+env_exercises/
+
+#sorces vscode
+.vscode/
